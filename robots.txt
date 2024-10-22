@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://forterea.github.io/forterea.txt.gz
+Sitemap: https://forterea.github.io/app/forterea.txt.gz
+Sitemap: https://forterea.github.io/assets/forterea.txt.gz
+Sitemap: https://forterea.github.io/css/forterea.txt.gz
+Sitemap: https://forterea.github.io/includes/forterea.txt.gz
+Sitemap: https://forterea.github.io/item/forterea.txt.gz
+Sitemap: https://forterea.github.io/src/forterea.txt.gz
